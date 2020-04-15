@@ -1,4 +1,6 @@
-# LimeLight - Linux Kernel 4.1.6
+# (Old) LimeLight - Linux Kernel 4.1.6
+
+> Archived and published for educational purpose.
 
 This 4.1.6 kernel is perfectly configured for gameserver systems.
 
